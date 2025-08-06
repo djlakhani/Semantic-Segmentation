@@ -18,6 +18,8 @@ The transfer learning model produced the following results on the test dataset. 
 
 ### Training and Validation Loss over Epochs for Transfer Learning Model:
 
+<img width="626" height="471" alt="Image" src="https://github.com/user-attachments/assets/3d632095-8c4e-4ab7-bd69-8157c7613412" />
+
 ### Files:
 
 ```best_transfer_model.pth```: Contains learned parameters for final transfer learning model.<br>
